@@ -26,4 +26,6 @@ IMPORTANT VARIABLES:
       en: normal unit vector for each point
       eb: binormal unit vector for each point
 
+UlnarNerveTracking: this is the unified code that allows for one user to traverse through this code, using each of the other provided matlab codes as functions, with a UI in the command window
+
 # ulnarNerveMATLAB
